@@ -1,0 +1,13 @@
+{
+  "name": "use-easy-state",
+  "version": "0.0.0",
+  "description": "React State Hook alternative that updates when state object is directly modified",
+  "main": "index.js",
+  "repository": "laggingreflex/use-easy-state",
+  "dependencies": {
+    "on-change": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
