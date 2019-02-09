@@ -1,6 +1,6 @@
 {
   "name": "use-easy-state",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React State Hook alternative that updates when state object is directly modified",
   "main": "index.js",
   "repository": "laggingreflex/use-easy-state",
